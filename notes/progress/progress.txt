@@ -1,0 +1,31 @@
+Project started: 7/6/23
+Tutorial followed: https://youtube.com/playlist?list=PLSFMekK0JFgzbFfj1vAsyluKTymnBiriY
+
+
+[ ] Part 0:  Farming RPG Tutorial: GMS2 [Intro for Beginners]
+[ ] Part 1:  Movement and Collisions
+[ ] Part 2:  Assets and Sprite Management
+[ ] Part 2X: Animation Fix
+[ ] Part 3:  Camera and Viewport Basics
+[ ] Part 4:  Tiles
+[ ] Part 5:  NPCs And Organisation
+[ ] Part 6:  Room Transitions
+[ ] Part 7:  Crops, Grids, Scripts
+[ ] Part 8:  Grid Snapping
+[ ] Part 9:  Growing Crops
+[ ] Part 10: Making Crops Persistent
+[ ] Part 11: Object Depth System
+[ ] Part 12: Day-Night Cycle
+[ ] Part 13: Prettier Lighting
+[ ] Part 14: Inventory Setup
+[ ] Part 15: Inventory Selecting and Stacking
+[ ] Part 16: Item Pickup and Dropping
+[ ] Part 17: Item Descriptions
+[ ] Part 18: Drop & Pickup Notifications
+[ ] Part 19: Dialogue
+[ ] Part 20: Typewriter Text, Wrapping & Audio
+[ ] Part 21: NPC Dialogue
+[ ] Part 22: Dialogue Choices & Branching
+[ ] Part 23: Scripts During Dialogue
+
+
