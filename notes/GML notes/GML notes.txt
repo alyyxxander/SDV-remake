@@ -1,0 +1,55 @@
+
+
+-------- OBJECT EVENTS --------
+
+CREATE:
+	This event happens when an instance of the object is first created, and is the 
+	very first thing that happens within an instance placed in the room through the
+	Room Editor when a room is entered. This means that this event is the ideal 
+	place to initialize variables, start Timelines, set Paths etc... and do anything 
+	else that generally only needs to be done once or only when an instance is first 
+	created in the room. If your object has any Object Variables or Instance 
+	Variables added in either the Object Editor or the Room Editor, then these 
+	variables will be initialised first and then the Create Event will be run.
+
+
+STEP:
+	GameMaker splits time into steps with the room speed defining how many of 
+	these steps there are supposed to be per second (a step can also be called 
+	a frame). A single step, is basically the loop that runs constantly with all 
+	the events being checked and triggered as necessary while the game runs, so 
+	as you can imagine, the Step Event is an event that is checked every single 
+	step of the game while the instance exists.
+
+	What can the step event be used for? Well, it can be used for actions or code 
+	that needs to be executed continuously. For example, if one object should follow 
+	another, here you can adapt the direction of motion towards the object we are 
+	following to keep it moving smoothly behind. Be careful with this event though, 
+	and don't put many complicated actions in the step event of objects, especially 
+	if you are planning on having lots of instances of the object in your game room, 
+	as this might slow the game down. Many things can be placed into alarms, or set 
+	to trigger using some of the Other events, rather than happening all the time.
+
+DRAW:
+	This event category is the one that governs what you see on the screen when you 
+	run your game, and is split into various discreet events: ......
+	As you can see, the draw event category has multiple different event types. Draw 
+	Begin, Draw and Draw End are the "standard" draw events which you will probably 
+	use most. By default the main Draw event is always called for every instance, 
+	regardless of whether it has a sprite or not, although if you flag the instance 
+	as invisible, the event will not be triggered (so keep this in mind if you have 
+	any game logic in the draw event of an invisible object, as it won't run). The 
+	main draw event is also where GameMaker default draws the instance sprite when 
+	there is no code nor actions in the event (ie: you haven't added it into the 
+	event list for the object). Default drawing uses the sprite associated with the 
+	instance and will draw that with any transforms set in code or actions applied.
+
+
+
+
+
+
+
+
+
+
