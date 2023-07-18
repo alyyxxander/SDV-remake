@@ -1,3 +1,4 @@
+
 /// @description Insert description here
 // You can write your code in this editor
 
@@ -51,6 +52,7 @@ if (moveY != 0) {
 }
 
 
+
 //------------------- CHOOSE ANIMATION
 if ((moveX = 0) and (moveY = 0)) {
 	//if player is not moving, choose still frames
@@ -101,9 +103,11 @@ if ((moveX = 0) and (moveY = 0)) {
 	}
 }
 
+
 if (show_bounding_box) {
 	draw_rectangle_color(bbox_left, bbox_top, bbox_right, bbox_bottom, c_yellow, c_yellow, c_yellow, c_yellow, true);
 }
+
 
 
 //------------------ APPLY MOVEMENT
