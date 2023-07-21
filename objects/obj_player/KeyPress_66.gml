@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description toggle the bounding box being displayed
 
 show_bounding_box = !show_bounding_box;
 var bb_string;

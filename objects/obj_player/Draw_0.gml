@@ -3,6 +3,7 @@
 
 draw_self();
 
+
 //------------------- CHOOSE ANIMATION
 if ((moveX = 0) and (moveY = 0)) {
 	//if player is not moving, choose still frames
@@ -20,7 +21,6 @@ if ((moveX = 0) and (moveY = 0)) {
 			sprite_index = spr_player_still_down;
 	        break;
 	}
-	
 } else if (input_run) {
 	//if player is running, choose runnning animation
 	if (input_right) { 
