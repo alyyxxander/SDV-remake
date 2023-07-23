@@ -7,7 +7,7 @@
 	in the room through the Room Editor when a room is entered. */
 
 walk_spd = 1;
-run_spd = 3;
+run_spd = 2;
 spd = walk_spd;
 show_bounding_box = false;
 

@@ -7,7 +7,7 @@ Tutorial followed: https://youtube.com/playlist?list=PLSFMekK0JFgzbFfj1vAsyluKTy
 7/19/23 [X] Part 2:  Assets and Sprite Management
 7/19/23 [X] Part 2X: Animation Fix
 7/21/23 [X] Part 3:  Camera and Viewport Basics
-	    [ ] Part 4:  Tiles
+7/23/23 [X] Part 4:  Tiles
 	    [ ] Part 5:  NPCs And Organisation
 	    [ ] Part 6:  Room Transitions
 	    [ ] Part 7:  Crops, Grids, Scripts
@@ -29,3 +29,26 @@ Tutorial followed: https://youtube.com/playlist?list=PLSFMekK0JFgzbFfj1vAsyluKTy
 	    [ ] Part 23: Scripts During Dialogue
 
 
+Assets downloaded:
+	NPCs			| done
+	Player			| done
+	Animals			| 
+	Monsters		| done
+	Environment		| done
+	Tilesets		| done
+	Minigames		| 
+	Miscellaneous	| 
+	Unused Content	| 
+	Maps			| done
+	
+Assets prepped for GMS use
+	NPCs			| some
+	Player			| minimum
+	Animals			| 
+	Monsters		| 
+	Environment		| some
+	Tilesets		| few 
+	Minigames		| 
+	Miscellaneous	| 
+	Unused Content	| 
+	Maps			| done

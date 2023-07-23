@@ -2,8 +2,18 @@ Instead of the game camera following the player, we have it set up
 so that: 
 	the game camera will follow the camera object, 
 	and the camera object will follow the player
+
+
+press the "B" key to show the bounding boxes
+press the "C" key and use the arrow keys to move the camera around
+
+
+
+
+top left corner is cutoff when using sprites for tiles!!!
+	craftables sprite needs fixed bc of this
 	
 	
 	
-	press the "B" key to show the bounding boxes
-	press the "C" key and use the arrow keys to move the camera around
+	
+	
