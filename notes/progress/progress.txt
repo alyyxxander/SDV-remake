@@ -8,7 +8,7 @@ Tutorial followed: https://youtube.com/playlist?list=PLSFMekK0JFgzbFfj1vAsyluKTy
 7/19/23 [X] Part 2X: Animation Fix
 7/21/23 [X] Part 3:  Camera and Viewport Basics
 7/23/23 [X] Part 4:  Tiles
-	    [ ] Part 5:  NPCs And Organisation
+7/27/23 [X] Part 5:  NPCs And Organization
 	    [ ] Part 6:  Room Transitions
 	    [ ] Part 7:  Crops, Grids, Scripts
 	    [ ] Part 8:  Grid Snapping
@@ -29,26 +29,19 @@ Tutorial followed: https://youtube.com/playlist?list=PLSFMekK0JFgzbFfj1vAsyluKTy
 	    [ ] Part 23: Scripts During Dialogue
 
 
-Assets downloaded:
-	NPCs			| done
-	Player			| done
-	Animals			| 
-	Monsters		| done
-	Environment		| done
-	Tilesets		| done
-	Minigames		| 
-	Miscellaneous	| 
-	Unused Content	| 
-	Maps			| done
+Assets downloaded:					Assets prepped for GMS use
+	NPCs			| done				NPCs			| some
+	Player			| done				Player			| minimum
+	Animals			|					Animals			| 
+	Monsters		| done				Monsters		| 
+	Environment		| done				Environment		| some
+	Tilesets		| done				Tilesets		| few 
+	Minigames		|					Minigames		| 
+	Miscellaneous	| done				Miscellaneous	| 
+	Unused Content	|					Unused Content	| 
+	Maps			| done				Maps			| done
 	
-Assets prepped for GMS use
-	NPCs			| some
-	Player			| minimum
-	Animals			| 
-	Monsters		| 
-	Environment		| some
-	Tilesets		| few 
-	Minigames		| 
-	Miscellaneous	| 
-	Unused Content	| 
-	Maps			| done
+
+TODO:
+	- 
+

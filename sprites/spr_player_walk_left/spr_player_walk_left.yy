@@ -29,7 +29,7 @@
   "origin": 7,
   "parent": {
     "name": "walk",
-    "path": "folders/Sprites/player/walk.yy",
+    "path": "folders/Sprites/characters/player/walk.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

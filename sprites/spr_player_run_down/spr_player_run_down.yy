@@ -33,7 +33,7 @@
   "origin": 7,
   "parent": {
     "name": "run",
-    "path": "folders/Sprites/player/run.yy",
+    "path": "folders/Sprites/characters/player/run.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

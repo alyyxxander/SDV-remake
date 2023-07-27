@@ -3,6 +3,8 @@
 
 draw_self();
 
+//draw character shadow
+draw_sprite(spr_character_shadow, 0, x, y+3);
 
 //------------------- CHOOSE ANIMATION
 if ((moveX = 0) and (moveY = 0)) {
@@ -53,7 +55,3 @@ if ((moveX = 0) and (moveY = 0)) {
 	}
 }
 
-
-if (show_bounding_box) {
-	draw_rectangle_color(bbox_left, bbox_top, bbox_right, bbox_bottom, c_yellow, c_yellow, c_yellow, c_yellow, true);
-}

@@ -4,16 +4,14 @@ so that:
 	and the camera object will follow the player
 
 
-press the "B" key to show the bounding boxes
+press the "P" key to toggle debuug mode
 press the "C" key and use the arrow keys to move the camera around
-
-
 
 
 top left corner is cutoff when using sprites for tiles!!!
 	craftables sprite needs fixed bc of this
-	
-	
-	
-	
-	
+
+
+since we made obj_collision a parent of obj_parent_NPC, all of the 
+NPCs are collision objects!
+
