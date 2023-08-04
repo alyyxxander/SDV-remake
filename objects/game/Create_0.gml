@@ -18,3 +18,25 @@ room_goto_next();
 
 //a variable to toggle for debug mode
 debug = false;
+
+
+gui_width =display_get_gui_width();
+gui_height = display_get_gui_height();
+
+black_alpha = 0;
+
+//this will be the transition objects target room
+spawn_room = -1;
+
+//player coords when spawning in new room
+spawnX = 0;
+spawnY = 0; 
+
+//controls when to stop the black fade animation when changing rooms
+do_transition = false;
+
+
+
+
+
+

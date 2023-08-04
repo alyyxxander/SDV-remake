@@ -9,7 +9,10 @@ Tutorial followed: https://youtube.com/playlist?list=PLSFMekK0JFgzbFfj1vAsyluKTy
 7/21/23 [X] Part 3:  Camera and Viewport Basics
 7/23/23 [X] Part 4:  Tiles
 7/27/23 [X] Part 5:  NPCs And Organization
-	    [ ] Part 6:  Room Transitions
+			NOTE: didn't do the thing where the camera zooms in when entering the house
+8/02/23 [X] Part 6:  Room Transitions
+			NOTE: didnt do the thing for player direction when changing rooms at ~24 min,
+				  it conflicts with how I already set up the player direction
 	    [ ] Part 7:  Crops, Grids, Scripts
 	    [ ] Part 8:  Grid Snapping
 	    [ ] Part 9:  Growing Crops
@@ -32,14 +35,14 @@ Tutorial followed: https://youtube.com/playlist?list=PLSFMekK0JFgzbFfj1vAsyluKTy
 Assets downloaded:					Assets prepped for GMS use
 	NPCs			| done				NPCs			| some
 	Player			| done				Player			| minimum
-	Animals			|					Animals			| 
+	Animals			| done				Animals			| 
 	Monsters		| done				Monsters		| 
 	Environment		| done				Environment		| some
 	Tilesets		| done				Tilesets		| few 
-	Minigames		|					Minigames		| 
+	Minigames		| done				Minigames		| 
 	Miscellaneous	| done				Miscellaneous	| 
-	Unused Content	|					Unused Content	| 
-	Maps			| done				Maps			| done
+	Unused Content	| done				Unused Content	| 
+	Maps			| done				Maps			| 
 	
 
 TODO:
