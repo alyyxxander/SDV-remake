@@ -13,7 +13,8 @@ Tutorial followed: https://youtube.com/playlist?list=PLSFMekK0JFgzbFfj1vAsyluKTy
 8/02/23 [X] Part 6:  Room Transitions
 			NOTE: didnt do the thing for player direction when changing rooms at ~24 min,
 				  it conflicts with how I already set up the player direction
-	    [ ] Part 7:  Crops, Grids, Scripts
+8/08/23 [X] Part 7:  Crops, Grids, Scripts
+			NOTE: didnt add sparkple effect to crops
 	    [ ] Part 8:  Grid Snapping
 	    [ ] Part 9:  Growing Crops
 	    [ ] Part 10: Making Crops Persistent

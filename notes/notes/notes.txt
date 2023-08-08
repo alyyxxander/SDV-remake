@@ -4,8 +4,9 @@ so that:
 	and the camera object will follow the player
 
 
-press the "P" key to toggle debuug mode
+press the "O" key to toggle debug mode
 press the "C" key and use the arrow keys to move the camera around
+press the "P" key to toggle planting mode
 
 
 top left corner is cutoff when using sprites for tiles!!!
