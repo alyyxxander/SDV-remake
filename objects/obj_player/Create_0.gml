@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description 
 
 /* THE CREATE EVENT:
 	This event happens when an instance of the object is first created, 

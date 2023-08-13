@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description
 
 walk_spd = 1;
 run_spd = 2;

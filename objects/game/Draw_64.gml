@@ -1,8 +1,6 @@
-/// @description Insert description here
+/// @description handle black fade and room transition
 
 if(do_transition) {
-	
-	//handle black fade and room transition
 	
 	//while we're not yet in the room we want to go to...
 	if (room != spawn_room) {

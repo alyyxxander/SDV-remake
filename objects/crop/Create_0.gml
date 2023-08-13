@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description
 
 //data strutcure grid
 ds_crop_types = 0;
@@ -31,3 +31,11 @@ selectCrop = 0;
 //mouse variables
 mx = 0;
 my = 0;
+
+//for grid snapping
+cellSize = 16;
+
+
+
+ds_crop_instances = 0;
+

@@ -5,7 +5,7 @@ so that:
 
 
 press the "O" key to toggle debug mode
-press the "C" key and use the arrow keys to move the camera around
+press and hold the "C" key and use the arrow keys to move the camera around
 press the "P" key to toggle planting mode
 
 

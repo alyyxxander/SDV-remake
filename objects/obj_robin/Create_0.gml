@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description
 
 //thhiss create event will override the inherited create evennt, but
 // we still want the inherited create evennt to run, so we have to add:

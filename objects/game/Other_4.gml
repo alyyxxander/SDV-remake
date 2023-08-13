@@ -1,4 +1,8 @@
-/// @description Insert description here
+/// @description
+
+roomWidth = room_width;
+roomHeight = room_height;
+
 
 //if it's the first time the player is loaded, the spawn coordinates would still be 0,0
 //so dont move the player the first time

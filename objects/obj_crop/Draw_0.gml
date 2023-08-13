@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description
 
 draw_sprite_part(
 	spr_crops, 0, growthStage*frameWidth,

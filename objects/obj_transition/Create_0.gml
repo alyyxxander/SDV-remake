@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description
 
 targetRoom = -1;
 targetX = 0;

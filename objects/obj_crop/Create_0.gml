@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description
 
 //dimensions of each frame on the spritesheet
 frameWidth = 16;
