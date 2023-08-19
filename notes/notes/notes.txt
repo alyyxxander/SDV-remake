@@ -1,13 +1,12 @@
-Instead of the game camera following the player, we have it set up
-so that: 
+Instead of the game camera following the player, we have it set up so that: 
 	the game camera will follow the camera object, 
 	and the camera object will follow the player
 
-
+--------------------------------------------------------
 press the "O" key to toggle debug mode
 press and hold the "C" key and use the arrow keys to move the camera around
 press the "P" key to toggle planting mode
-
+--------------------------------------------------------
 
 top left corner is cutoff when using sprites for tiles!!!
 	craftables sprite needs fixed bc of this

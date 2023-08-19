@@ -1,0 +1,7 @@
+[ ] finish farm map
+
+[ ] top left corner is cutoff when using sprites for tiles!!!
+	craftables sprite needs fixed bc of this
+
+[ ] fix the weird blur when moving
+

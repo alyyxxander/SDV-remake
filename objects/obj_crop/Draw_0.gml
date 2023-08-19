@@ -6,7 +6,3 @@ draw_sprite_part(
 );
 
 
-
-
-
-

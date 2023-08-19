@@ -12,8 +12,6 @@ with (obj_player) {
 }
 
 
-
-
 #region =========== DRAWING THE GRID
 
 	//setting opacity of the grid

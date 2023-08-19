@@ -15,7 +15,7 @@ Tutorial followed: https://youtube.com/playlist?list=PLSFMekK0JFgzbFfj1vAsyluKTy
 				  it conflicts with how I already set up the player direction
 8/08/23 [X] Part 7:  Crops, Grids, Scripts
 			NOTE: didnt add sparkple effect to crops
-	    [ ] Part 8:  Grid Snapping
+8/13/23 [X] Part 8:  Grid Snapping
 	    [ ] Part 9:  Growing Crops
 	    [ ] Part 10: Making Crops Persistent
 	    [ ] Part 11: Object Depth System
@@ -46,6 +46,4 @@ Assets downloaded:					Assets prepped for GMS use
 	Maps			| done				Maps			| 
 	
 
-TODO:
-	- 
 

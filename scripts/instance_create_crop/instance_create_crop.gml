@@ -1,5 +1,4 @@
 
-
 function instance_create_crop(crop_x, crop_y, crop_type){
 	
 	var instance_grid = crop.ds_crop_instances;

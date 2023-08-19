@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_tiles_farmhouse_outside",
-  "bbox_bottom": 143,
+  "name": "spr_tiles_farm_buildings",
+  "bbox_bottom": 415,
   "bbox_left": 0,
-  "bbox_right": 456,
+  "bbox_right": 911,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,17 +13,17 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"77bc9a2e-6c3e-4868-8ba6-ce95a4ece039",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"33b3fbef-91c9-4ea3-9cfe-bd6632e4c0d2",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 144,
+  "height": 416,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"71fcb060-23a3-4980-a2a1-b2960562434a","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"fcaceac0-e7dd-4657-8b1c-ef0cd882f5b3","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 4,
+  "origin": 7,
   "parent": {
     "name": "tilesets",
     "path": "folders/Sprites/tilesets.yy",
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_tiles_farmhouse_outside",
+    "name": "spr_tiles_farm_buildings",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,13 +54,13 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"77bc9a2e-6c3e-4868-8ba6-ce95a4ece039","path":"sprites/spr_tiles_farmhouse_outside/spr_tiles_farmhouse_outside.yy",},},},"Disabled":false,"id":"ce99fafc-5234-4d28-8b6f-d1bf4a934c1d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"33b3fbef-91c9-4ea3-9cfe-bd6632e4c0d2","path":"sprites/spr_tiles_farm_buildings/spr_tiles_farm_buildings.yy",},},},"Disabled":false,"id":"1d72f8e4-1660-4a94-af8c-22cabfc30730","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 232,
-    "yorigin": 72,
+    "xorigin": 459,
+    "yorigin": 416,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 464,
+  "width": 919,
 }
