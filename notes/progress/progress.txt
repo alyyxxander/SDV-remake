@@ -16,7 +16,7 @@ Tutorial followed: https://youtube.com/playlist?list=PLSFMekK0JFgzbFfj1vAsyluKTy
 8/08/23 [X] Part 7:  Crops, Grids, Scripts
 			NOTE: didnt add sparkple effect to crops
 8/13/23 [X] Part 8:  Grid Snapping
-	    [ ] Part 9:  Growing Crops
+8/20/23 [X] Part 9:  Growing Crops
 	    [ ] Part 10: Making Crops Persistent
 	    [ ] Part 11: Object Depth System
 	    [ ] Part 12: Day-Night Cycle
