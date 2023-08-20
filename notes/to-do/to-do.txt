@@ -7,6 +7,7 @@
 
 [ ] fix the weird blur when moving
 
-[ ] on obj_crop -> creat event:
+[x] on obj_crop -> create event:
 	find a fix that allows maxGrowthStage to vary for different crop types
+
 

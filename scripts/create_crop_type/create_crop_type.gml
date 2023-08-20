@@ -1,5 +1,5 @@
 
-function create_crop_type(growth_stage_duration, sell_price) {
+function create_crop_type(growth_stage_duration, sell_price, max_growth_stage) {
 	var argNum = argument_count;
 
 	// if the crop is being planted for the first time, we need to add it to the DS grid
@@ -15,6 +15,7 @@ function create_crop_type(growth_stage_duration, sell_price) {
 	}
 
 	// no idea what's being done here tbh
+	// actuallly i think this is just iterating through each grid row and filling in the data for it
 	var yy = grid_height-1;
 	var i = 0; repeat(argNum) {
 		ds_crop_types[# i, yy] = argument[i];
