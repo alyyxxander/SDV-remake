@@ -1,7 +1,12 @@
 [ ] finish farm map
+	[ ] add ponds
+	[ ] fix grass and decorative details
 
 [ ] top left corner is cutoff when using sprites for tiles!!!
 	craftables sprite needs fixed bc of this
 
 [ ] fix the weird blur when moving
+
+[ ] on obj_crop -> creat event:
+	find a fix that allows maxGrowthStage to vary for different crop types
 

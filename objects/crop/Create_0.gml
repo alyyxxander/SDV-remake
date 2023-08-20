@@ -1,7 +1,10 @@
 /// @description
 
-//data strutcure grid
-ds_crop_types = 0;
+//data structure grids
+ds_crop_types = -1;
+ds_crop_instances = -1;
+
+
 
 enum crops {
 	parsnip,
@@ -37,5 +40,5 @@ cellSize = 16;
 
 
 
-ds_crop_instances = 0;
+
 

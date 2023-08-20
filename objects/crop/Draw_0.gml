@@ -1,11 +1,11 @@
-/// @description
+/// @description crop placement preview
 
 if (!planting_mode) exit;
 
 
 //determines where to draw
 var gx = (mx div cellSize);//figure out the closest cell
-var xx = gx * cellSize; //set coord to the pixel positionn of that cell
+var xx = gx * cellSize; //set coord to the pixel position of that cell
 var gy = (my div cellSize);
 var yy = gy * cellSize;
 

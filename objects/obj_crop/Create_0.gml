@@ -9,7 +9,7 @@ frameHeight = 32;
 cropType  = 0; 
 
 daysOld = 0;
-growthStage = 4;
+growthStage = 0;
 growthStageDuration = 0;
 
 //this won't work for my version becacuse not all of the crops fill the whole row on the spritesheet
@@ -18,9 +18,9 @@ maxGrowthStage = (sprite_get_width(spr_crops)/frameWidth)-1;
 
 fullyGrown = false;
 
-//nnot used in my versionn
+//not used in my version
 //sparkle = false;
 
 xx = x - (frameWidth/2);
-yy = y - frameHeight + 3;
+yy = y - frameHeight + 7;
 
