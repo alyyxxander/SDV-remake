@@ -1,6 +1,7 @@
 /// @description crop placement preview
 
 if (!planting_mode) exit;
+if(room != room_farm)  {planting_mode = false; exit};
 
 
 //determines where to draw
@@ -17,6 +18,7 @@ var yy = gy * cellSize;
 
 	//check if something is already planted
 	var cell = ds_crop_instances[# gx, gy];
+	
 	if (cell == 0) {
 		//check if the dirt is hoed
 		var layer_id = layer_get_id("T_Hoed_Dirt");

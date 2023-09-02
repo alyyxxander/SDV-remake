@@ -38,6 +38,7 @@
     {"name":"spr_sam_walk_right","order":3,"path":"sprites/spr_sam_walk_right/spr_sam_walk_right.yy",},
     {"name":"spr_sam_walk_down","order":1,"path":"sprites/spr_sam_walk_down/spr_sam_walk_down.yy",},
     {"name":"tile_walls_floors","order":4,"path":"tilesets/tile_walls_floors/tile_walls_floors.yy",},
+    {"name":"respawn_crop","order":2,"path":"scripts/respawn_crop/respawn_crop.yy",},
     {"name":"spr_player_still_down","order":1,"path":"sprites/spr_player_still_down/spr_player_still_down.yy",},
     {"name":"obj_transition","order":3,"path":"objects/obj_transition/obj_transition.yy",},
     {"name":"spr_abigail_walk_right","order":3,"path":"sprites/spr_abigail_walk_right/spr_abigail_walk_right.yy",},

@@ -37,7 +37,6 @@ function instance_create_crop(crop_x, crop_y, crop_type){
 				cropType = argument2;
 				growthStageDuration = crop.ds_crop_types[# 0, cropType];
 				maxGrowthStage = crop.ds_crop_types[# 2, cropType];
-				
 			}
 	
 			return inst;

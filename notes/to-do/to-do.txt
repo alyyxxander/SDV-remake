@@ -10,4 +10,9 @@
 [x] on obj_crop -> create event:
 	find a fix that allows maxGrowthStage to vary for different crop types
 
+[ ] fix the days it takes to grow isssue -- havinnng to press the "G" button 
+	like 50 times for something to grow
+	
+	
+	
 

@@ -1,3 +1,3 @@
 targetRoom = room_farm;
-targetX = 600;
-targetY = 250;
+targetX = 1032;
+targetY = 249;

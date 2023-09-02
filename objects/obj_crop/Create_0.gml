@@ -9,6 +9,7 @@ frameHeight = 32;
 cropType  = 0; 
 
 daysOld = 0;
+//totalDaysToGrow = 0;
 growthStage = 0;
 
 //this is the number of days until the next growth stage
