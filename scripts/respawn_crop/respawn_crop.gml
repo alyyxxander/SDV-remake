@@ -1,5 +1,5 @@
 
-function respawn_crop(grid_x, grid_y, crop_type, days_old){
+function respawn_crop(grid_x, grid_y, crop_type, days_old, growth_stage){
 	
 	//convert grid positon from cells into pixels
 	var xx = argument0 * cellSize;
@@ -10,13 +10,15 @@ function respawn_crop(grid_x, grid_y, crop_type, days_old){
 	
 	//add to the instance grid
 	ds_crop_instances[# argument0, argument1] = inst;
-	show_debug_message("Respawned a " + ds_crop_types[# 3, argument2]);
+	show_debug_message("Respawned a " + ds_crop_types[# 4, argument2]);
 	
 	//give the crop its characteristics
 	with(inst) {
 		cropType = argument2;
 		daysOld = argument3;
+		growthStage = argument4;
 		growthStageDuration = crop.ds_crop_types[# 0, cropType];
+		maxGrowthStage = crop.ds_crop_types[# 2, cropType];
 	}
 	
 	return inst;

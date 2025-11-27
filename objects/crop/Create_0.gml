@@ -5,7 +5,7 @@ ds_crop_types = -1;
 //holds the instances of existing/planted crops
 ds_crop_instances = -1;
 //holds data about the existing/planted crops
-ds_crops_data = ds_grid_create(4,1);
+ds_crops_data = ds_grid_create(5,1);
 //sets all of the cells equal to -1, to basically say that its empty
 ds_grid_clear(ds_crops_data, -1);
 
@@ -20,7 +20,7 @@ enum crops {
 	corn
 }
 
-// create_crop_type(growth_stage_duration, sell_price, max_growth_stage, name)
+// create_crop_type(total_days_to_grow, sell_price, max_growth_stage, name)
 create_crop_type(4,  35,  5, "parsnip");
 create_crop_type(12, 175, 6, "cauliflower");
 create_crop_type(6,	 100, 5, "beet");

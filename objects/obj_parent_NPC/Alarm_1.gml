@@ -24,7 +24,9 @@ if (idle == false) {
 
 
 //retrigger this alarm after a randomized amount of time
-alarm[1] = random_range(2.5, 4) * room_speed;
+minWaitTime = 2.5;
+maxWaitTime = 4;
+alarm[1] = random_range(minWaitTime, maxWaitTime) * room_speed;
 
 
 

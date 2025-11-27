@@ -7,7 +7,7 @@
 	i.e. not random. So we have to add a line of code to tell GMS to have a new
 	seed everytime.
 	
-	"persistent" is checked because we want this game object to still exist
+	"Persistent" is checked because we want this game object to still exist
 	even after we change a room or something */
 
 //randomize the game seed

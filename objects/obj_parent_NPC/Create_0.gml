@@ -19,7 +19,9 @@ right_animation = spr_abigail_walk_right;
 //set which shadow sprite to use
 spr_shadow = spr_character_shadow;
 
-//The speed value given is a multiplier, with 1 being the default value, and setting it to 0.5 will half the animation speed - as set in the Sprite Editor or Image Editor- while setting it to 2 will double it.
+//The speed value given is a multiplier, with 1 being the default value (not effect the speed at all), 
+//and setting it to 0.5 will half the animation speed - as set in the Sprite Editor or Image Editor- 
+//while setting it to 2 will double it.
 default_image_speed = 1;
 
 moveX = 0;

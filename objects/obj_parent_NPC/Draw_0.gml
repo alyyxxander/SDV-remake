@@ -1,5 +1,4 @@
 /// @description
-// You can write your code in this editor
 
 draw_self();
 
@@ -8,7 +7,6 @@ draw_sprite(spr_shadow, 0, x, y+3);
 
 
 //------------------- CHOOSE ANIMATION
-
 
 if ((moveX = 0) and (moveY = 0)) {
 	//if player is not moving, choose still frames
@@ -29,7 +27,7 @@ if ((moveX = 0) and (moveY = 0)) {
 	        break;
 	}
 	image_index = 0;
-	image_speed = 0;
+	image_speed = 0; 
 	
 } else {
 	// else, choose walking animation

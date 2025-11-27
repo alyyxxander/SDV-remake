@@ -27,10 +27,11 @@ if (room == room_farm) {
 				
 				//if there's an instance in the cell, save its data
 				if (inst != 0) {
-					ds_crops_data[# 0, row] = xx; //save x pos
-					ds_crops_data[# 1, row] = yy; //save y pos 
-					ds_crops_data[# 2, row] = inst.cropType; //save crop type
-					ds_crops_data[# 3, row] = inst.daysOld; //save days old
+					ds_crops_data[# 0, row] = xx;					//save x pos
+					ds_crops_data[# 1, row] = yy;					//save y pos 
+					ds_crops_data[# 2, row] = inst.cropType;		//save crop type
+					ds_crops_data[# 3, row] = inst.daysOld;			//save days old
+					ds_crops_data[# 4, row] = inst.growthStage;		//save growth stage
 					row += 1;
 				}
 				yy += 1;

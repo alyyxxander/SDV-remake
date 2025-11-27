@@ -15,4 +15,14 @@
 	
 	
 	
-
+in the create_crop_type.gml script, the line: var growth_stage_duration = total_days_to_grow div max_growth_stage;
+can cause crops to appearfully grown beforee htey actually are
+example: 
+	green beans take 10 days to grow
+		var growth_stage_duration = total_days_to_grow div max_growth_stage;
+	will be equivalent to:
+		var growth_stage_duration = 10 div 7;
+	which will give a result of 1 due to "div" rounding, meaning each growth 
+	stage will take 1 day to grow
+	
+	
